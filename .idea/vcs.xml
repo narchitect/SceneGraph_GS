@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/Grounded-Segment-Anything" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/Grounded-Segment-Anything/VISAM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/Grounded-Segment-Anything/grounded-sam-osx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/Grounded-Segment-Anything/recognize-anything" vcs="Git" />
+  </component>
+</project>

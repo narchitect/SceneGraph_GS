@@ -1,0 +1,9 @@
+/data/
+/data
+/code/Grounded-Segment-Anything/ouputs/
+/code/Grounded-Segment-Anything/test_results/
+/code/mmdetection/data/
+/code/mmdetection/evaluations/
+/code/mmdetection/outputs/
+/code/mm-grounded-sam/output/
+/code/mmdetection/bert-base-uncased/

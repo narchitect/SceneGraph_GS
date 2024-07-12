@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="appuser@localhost:2251 key" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false" autoUploadExternalChanges="true" showDifferentInSync="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="appuser@localhost:2251 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/appuser/" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/appuser/code/Grounded-Segment-Anything/checkpoints" />
+            <excludedPath path="/home/appuser/code/mmdetection/checkpoints" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
