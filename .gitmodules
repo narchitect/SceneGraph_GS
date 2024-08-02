@@ -1,3 +1,6 @@
 [submodule "code/Grounded-Segment-Anything"]
 	path = code/Grounded-Segment-Anything
 	url = https://github.com/IDEA-Research/Grounded-Segment-Anything
+[submodule "code/SceneGraphGenZeroShotWithGSAM"]
+	path = code/SceneGraphGenZeroShotWithGSAM
+	url = https://github.com/narchitect/SceneGraphGenZeroShotWithGSAM.git

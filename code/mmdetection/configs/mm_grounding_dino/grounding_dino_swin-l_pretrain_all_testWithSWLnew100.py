@@ -575,7 +575,7 @@ val_dataloader = dict(
         type='CocoDataset',
         metainfo=metainfo,
         data_root='../../data/SWL/',
-        ann_file='annotations/new_020724/SWL_new_100_020724.json',
+        ann_file='annotations/new_020724/SWL_new_100_020724_test_polygon.json',
         data_prefix=dict(img='images/'),
         pipeline=test_pipeline
     )
@@ -584,7 +584,7 @@ val_dataloader = dict(
 test_dataloader = val_dataloader
 
 val_evaluator = dict(
-    ann_file='../../data/SWL/annotations/new_020724/SWL_new_100_020724.json',
+    ann_file='../../data/SWL/annotations/new_020724/SWL_new_100_020724_test_polygon.json',
     backend_args=None,
     format_only=False,
     metric='bbox',

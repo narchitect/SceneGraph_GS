@@ -89,7 +89,7 @@ train_dataloader = dict(
         return_classes=True,
         pipeline=train_pipeline,
         filter_cfg=dict(filter_empty_gt=False, min_size=32),
-        ann_file='annotations/new_020724/SWL_new_100_020724_test_polygon.json',
+        ann_file='annotations/new_min_170724/SWL_new_min_170724_polygon_train.json',
         data_prefix=dict(img='images/')),
     batch_size=2,  # 4 to 2
     num_workers=4,
@@ -102,12 +102,12 @@ val_dataloader = dict(
     dataset=dict(
         metainfo=metainfo,
         data_root=data_root,
-        ann_file='annotations/new_020724/SWL_new_100_020724_trainval_polygon.json',
+        ann_file='annotations/new_min_170724/SWL_new_min_170724_polygon_test.json',
         data_prefix=dict(img='images/')))
 
 test_dataloader = val_dataloader
 
-val_evaluator = dict(ann_file=data_root + 'annotations/new_020724/SWL_new_100_020724_trainval_polygon.json')
+val_evaluator = dict(ann_file=data_root + 'annotations/new_min_170724/SWL_new_min_170724_polygon_test.json')
 test_evaluator = val_evaluator
 
 max_epoch = 100 #original 8 gpu, our case 2gpu (rtx8000) keep it or 25

@@ -8,12 +8,24 @@
       <change afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/automatic_label_ram_plus_demo.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/automatic_label_ram_plus_open_demo.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/recognize-anything/ram/inference_ram_plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/scene_graph_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/mmdetection/configs/mm_grounding_dino/grounding_dino_swin-t_finetune_8xb4_20e_SWL_new_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/mmdetection/configs/mm_grounding_dino/grounding_dino_swin-t_pretrain_obj365_goldg_grit9m_v3det_SWL100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Grounded-Segment-Anything" beforeDir="false" afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Grounded-Segment-Anything/GroundingDINO/groundingdino/config/GroundingDINO_SwinB.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/GroundingDINO/groundingdino/config/GroundingDINO_SwinB.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Grounded-Segment-Anything/VISAM" beforeDir="false" afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/VISAM" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Grounded-Segment-Anything/VISAM/visam.gif" beforeDir="false" afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/VISAM/visam.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Grounded-Segment-Anything/grounded_sam_colab_demo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/grounded_sam_colab_demo.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Grounded-Segment-Anything/grounded_sam_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/grounded_sam_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Grounded-Segment-Anything/grounding_dino_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Grounded-Segment-Anything/grounding_dino_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/LAVIS/lavis/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/LAVIS/lavis/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/LAVIS/lavis/models/blip_models/blip_vqa.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/LAVIS/lavis/models/blip_models/blip_vqa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/LAVIS/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/LAVIS/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/scene_graph_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/scene_graph_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/mmdetection/configs/mm_grounding_dino/grounding_dino_swin-l_pretrain_all_testWithSWLnew100.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/mmdetection/configs/mm_grounding_dino/grounding_dino_swin-l_pretrain_all_testWithSWLnew100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/mmdetection/configs/mm_grounding_dino/grounding_dino_swin-t_finetune_8xb4_20e_SWL_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/mmdetection/configs/mm_grounding_dino/grounding_dino_swin-t_finetune_8xb4_20e_SWL_new.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -39,69 +51,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Doctests in local_visualizer.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.NLTK.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bert_set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coco2017_RLE2Polygon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coco2017_addNewData.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coco2017_addNewData2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coco2017_addnewdata2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coco2017_conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coco2017_image.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coco2017_split.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coco2017_splitWithImages.executor&quot;: &quot;Run&quot;,
-    &quot;Python.debug_coco.executor&quot;: &quot;Run&quot;,
-    &quot;Python.det_inferencer.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.grounding_dino_demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.grounding_dino_swin-l_pretrain_all_testWithSWL.executor&quot;: &quot;Run&quot;,
-    &quot;Python.initial-mm-dino-multi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.initial-mm-dino-multi2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-dino-vis-segBbox.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_multi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_multi2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_multi3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_multi4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_multi5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mm-grounded-sam_multi6.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.mm-grounded-sam_single.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.mm-grounded-sam_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palette.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.pth_check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pth_check2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.punkt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.save_berty.executor&quot;: &quot;Run&quot;,
-    &quot;Python.segmentation_bracket.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.threading.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nayunkim/PycharmProjects/SceneGraph_GS/code/mmdetection/configs/mm_grounding_dino&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;web.server&quot;,
-    &quot;two.files.diff.last.used.folder&quot;: &quot;/Users/nayunkim/PycharmProjects/SceneGraph_GS&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Doctests in local_visualizer.executor": "Debug",
+    "Python.NLTK.executor": "Run",
+    "Python.bert_set.executor": "Run",
+    "Python.coco2017_RLE2Polygon.executor": "Run",
+    "Python.coco2017_RLE2Polygon2.executor": "Run",
+    "Python.coco2017_addNewData.executor": "Run",
+    "Python.coco2017_addNewData2.executor": "Run",
+    "Python.coco2017_addnewdata2.executor": "Run",
+    "Python.coco2017_conversion.executor": "Run",
+    "Python.coco2017_extractAnnotation.executor": "Run",
+    "Python.coco2017_image.executor": "Run",
+    "Python.coco2017_split.executor": "Run",
+    "Python.coco2017_splitWithImages.executor": "Run",
+    "Python.debug_coco.executor": "Run",
+    "Python.det_inferencer.executor": "Debug",
+    "Python.grounding_dino_demo.executor": "Run",
+    "Python.grounding_dino_swin-l_pretrain_all_testWithSWL.executor": "Run",
+    "Python.grounding_dino_swin-t_pretrain_obj365_goldg_grit9m_v3det_SWL100.executor": "Run",
+    "Python.initial-mm-dino-multi.executor": "Run",
+    "Python.initial-mm-dino-multi2.executor": "Run",
+    "Python.mm-dino-vis-segBbox.executor": "Run",
+    "Python.mm-grounded-sam.executor": "Run",
+    "Python.mm-grounded-sam_2.executor": "Run",
+    "Python.mm-grounded-sam_3.executor": "Run",
+    "Python.mm-grounded-sam_4.executor": "Run",
+    "Python.mm-grounded-sam_5.executor": "Run",
+    "Python.mm-grounded-sam_multi.executor": "Run",
+    "Python.mm-grounded-sam_multi2.executor": "Run",
+    "Python.mm-grounded-sam_multi3.executor": "Run",
+    "Python.mm-grounded-sam_multi4.executor": "Run",
+    "Python.mm-grounded-sam_multi5.executor": "Run",
+    "Python.mm-grounded-sam_multi6.executor": "Debug",
+    "Python.mm-grounded-sam_single.executor": "Debug",
+    "Python.mm-grounded-sam_test.executor": "Run",
+    "Python.palette.executor": "Debug",
+    "Python.pth_check.executor": "Run",
+    "Python.pth_check2.executor": "Run",
+    "Python.punkt.executor": "Run",
+    "Python.save_berty.executor": "Run",
+    "Python.scene_graph_gen.executor": "Run",
+    "Python.segmentation_bracket.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.threading.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/nayunkim/PycharmProjects/SceneGraph_GS/code/Grounded-Segment-Anything",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
+    "two.files.diff.last.used.folder": "/Users/nayunkim/PycharmProjects/SceneGraph_GS",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/Grounded-Segment-Anything" />
       <recent name="$PROJECT_DIR$/code/mmdetection/configs/mm_grounding_dino" />
+      <recent name="$PROJECT_DIR$/data/tools" />
       <recent name="$PROJECT_DIR$/mmdetection/configs/mm_grounding_dino" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/mmdetection/configs/grounding_dino" />
-      <recent name="$PROJECT_DIR$/mmdetection/configs/mm_grounding_dino/coco" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/outputs/SWL/img0001" />
       <recent name="$PROJECT_DIR$/code/mm-grounded-sam" />
       <recent name="$PROJECT_DIR$/Data" />
       <recent name="$PROJECT_DIR$/Grounded-Segment-Anything/outputs/rgb_12" />
@@ -164,6 +181,14 @@
       <workItem from="1720644734548" duration="1269000" />
       <workItem from="1720683669360" duration="654000" />
       <workItem from="1720731232136" duration="2802000" />
+      <workItem from="1721211429000" duration="10738000" />
+      <workItem from="1721321180352" duration="598000" />
+      <workItem from="1721371348167" duration="2948000" />
+      <workItem from="1721555071291" duration="360000" />
+      <workItem from="1721586321539" duration="11000" />
+      <workItem from="1721698251380" duration="31503000" />
+      <workItem from="1721860089105" duration="284000" />
+      <workItem from="1721946919069" duration="14238000" />
     </task>
     <servers />
   </component>
@@ -233,6 +258,11 @@
           <line>136</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -252,6 +282,7 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SceneGraph_GS$coco2017_RLE2Polygon2.coverage" NAME="coco2017_RLE2Polygon2 Coverage Results" MODIFIED="1721371549142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/tools" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_grounded_sam_test.coverage" NAME="mm-grounded-sam_test Coverage Results" MODIFIED="1718291485995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$initial_mm_dino_multi2.coverage" NAME="initial-mm-dino-multi2 Coverage Results" MODIFIED="1718099047049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_grounded_sam_multi6.coverage" NAME="mm-grounded-sam_multi6 Coverage Results" MODIFIED="1718114747757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -260,25 +291,28 @@
     <SUITE FILE_PATH="coverage/SceneGraph_GS$save_berty.coverage" NAME="save_berty Coverage Results" MODIFIED="1715104274388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmdetection" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_dino_vis_segBbox.coverage" NAME="mm-dino-vis-segBbox Coverage Results" MODIFIED="1718295746124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$coco2017_image.coverage" NAME="coco2017_image Coverage Results" MODIFIED="1715899649633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
+    <SUITE FILE_PATH="coverage/SceneGraph_GS$coco2017_extractAnnotation.coverage" NAME="coco2017_extractAnnotation Coverage Results" MODIFIED="1721215934281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/tools" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_grounded_sam_multi.coverage" NAME="mm-grounded-sam_multi Coverage Results" MODIFIED="1717419641210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_grounded_sam.coverage" NAME="mm-grounded-sam Coverage Results" MODIFIED="1717098997630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_grounded_sam_multi3.coverage" NAME="mm-grounded-sam_multi3 Coverage Results" MODIFIED="1717793390983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$pth_check.coverage" NAME="pth_check Coverage Results" MODIFIED="1715168357496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$coco2017_addnewdata2.coverage" NAME="coco2017_addnewdata2 Coverage Results" MODIFIED="1715897425837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$bert_set.coverage" NAME="bert_set Coverage Results" MODIFIED="1718104186719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SceneGraph_GS$scene_graph_gen.coverage" NAME="scene_graph_gen Coverage Results" MODIFIED="1721951310443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$coco2017_addNewData.coverage" NAME="coco2017_addNewData Coverage Results" MODIFIED="1715694068502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_grounded_sam_5.coverage" NAME="mm-grounded-sam_5 Coverage Results" MODIFIED="1717146935858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_grounded_sam_multi4.coverage" NAME="mm-grounded-sam_multi4 Coverage Results" MODIFIED="1718099695377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$grounding_dino_demo.coverage" NAME="grounding_dino_demo Coverage Results" MODIFIED="1717085105230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grounded-Segment-Anything" />
     <SUITE FILE_PATH="coverage/pythonProject1$test.coverage" NAME="test Coverage Results" MODIFIED="1713984270021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_grounded_sam_2.coverage" NAME="mm-grounded-sam_2 Coverage Results" MODIFIED="1717104114008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SceneGraph_GS$coco2017_RLE2Polygon.coverage" NAME="coco2017_RLE2Polygon Coverage Results" MODIFIED="1720616872645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/tools" />
+    <SUITE FILE_PATH="coverage/SceneGraph_GS$coco2017_RLE2Polygon.coverage" NAME="coco2017_RLE2Polygon Coverage Results" MODIFIED="1721215969694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/tools" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$segmentation_bracket.coverage" NAME="segmentation_bracket Coverage Results" MODIFIED="1718293807243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data/tools" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$punkt.coverage" NAME="punkt Coverage Results" MODIFIED="1715105340774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mmdetection" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$coco2017_splitWithImages.coverage" NAME="coco2017_splitWithImages Coverage Results" MODIFIED="1715705296088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$coco2017_addNewData2.coverage" NAME="coco2017_addNewData2 Coverage Results" MODIFIED="1715703493130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$pth_check2.coverage" NAME="pth_check2 Coverage Results" MODIFIED="1717079074485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$debug_coco.coverage" NAME="debug_coco Coverage Results" MODIFIED="1715082947269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
+    <SUITE FILE_PATH="coverage/SceneGraph_GS$grounding_dino_swin_t_pretrain_obj365_goldg_grit9m_v3det_SWL100.coverage" NAME="grounding_dino_swin-t_pretrain_obj365_goldg_grit9m_v3det_SWL100 Coverage Results" MODIFIED="1721371718771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/mmdetection/configs/mm_grounding_dino" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$palette.coverage" NAME="palette Coverage Results" MODIFIED="1717425915683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Library/Caches/JetBrains/PyCharm2024.1/remote_sources/-1423118141/-1248760133/mmdet/visualization" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$mm_grounded_sam_4.coverage" NAME="mm-grounded-sam_4 Coverage Results" MODIFIED="1717119685999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SceneGraph_GS$test.coverage" NAME="test Coverage Results" MODIFIED="1714122869143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

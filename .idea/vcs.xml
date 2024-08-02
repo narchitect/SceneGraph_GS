@@ -6,5 +6,8 @@
     <mapping directory="$PROJECT_DIR$/code/Grounded-Segment-Anything/VISAM" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/code/Grounded-Segment-Anything/grounded-sam-osx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/code/Grounded-Segment-Anything/recognize-anything" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/LAVIS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/SceneGraphGenZeroShotWithGSAM/SceneGraphParser" vcs="Git" />
   </component>
 </project>
